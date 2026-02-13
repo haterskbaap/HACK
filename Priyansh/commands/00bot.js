@@ -144,7 +144,7 @@ if ((event.body.toLowerCase() == "satting karva de") || (event.body.toLowerCase(
      return api.sendMessage("Bot ki to kaRata nhi koi 😭", threadID);
    };
    if ((event.body.toLowerCase() == "🤮") || (event.body.toLowerCase() == "🤮🤮")) {
-     return api.sendMessage("𝐊𝐨𝐧𝐬𝐚 𝐦𝐚𝐡𝐢𝐧𝐚 𝐜𝐡𝐚𝐥 𝐫𝐚𝐡𝐚 𝐡𝐚𝐢 😝 𝐜𝐡𝐮𝐩𝐞 𝐫𝐮𝐬𝐭𝐚𝐦 𝐧𝐢𝐤𝐥𝐞 𝐭𝐮𝐦 𝐭𝐡𝐨", threadID);
+     return api.sendMessage("PET SE HAI 🤤AAB AAB PARTY MILEGI", threadID);
    };
 
     if ((event.body.toLowerCase() == "🤗") || (event.body.toLowerCase() == "🤗")) {
