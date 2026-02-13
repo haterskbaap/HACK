@@ -86,7 +86,7 @@ if ((event.body.toLowerCase() == "🥱") || (event.body.toLowerCase() == "😑")
        return api.sendMessage("KYa Ok🙄 Haan", threadID);
      };
 
-     if ((event.body.toLowerCase() == "admin") || (event.body.toLowerCase() == "admin kaha h")) {
+     if ((event.body.toLowerCase() == "jatin") || (event.body.toLowerCase() == "admin kaha h")) {
        return api.sendMessage("ADMIN APNI BABU SONA KO CHUMA CHATI KARNE ME BUSY HAI KARPYA THODI DER BAD ADMIN KO PUKARE🙄", threadID);
      };
 
